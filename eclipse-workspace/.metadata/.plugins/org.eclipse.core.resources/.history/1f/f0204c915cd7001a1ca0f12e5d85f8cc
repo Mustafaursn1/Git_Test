@@ -1,0 +1,28 @@
+package day29exception;
+
+import java.io.FileInputStream;
+import java.io.FileNotFoundException;
+
+public class E01 {
+
+	public static void main(String[] args) throws FileNotFoundException {
+		
+		
+		FileInputStream fis=new FileInputStream ("src/day29exception/textfile1");
+		//file ulasmak icin bu code'u yazdik
+		
+		
+		
+	
+	
+	
+	
+		
+		
+		
+		
+		
+
+	}
+
+}

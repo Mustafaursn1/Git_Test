@@ -1,0 +1,16 @@
+package day28overriding;
+
+public class Dog  extends Animal {
+	/*1)Parent'teki method'u method signature'ini degistrimeden method body'sini degistererek 
+	  Child class'da kullanmaya "Method Overriding" denir
+	 * 
+	 */
+
+	public static void main(String[] args) {
+		
+	}
+public void sound() {
+	System.out.println("Havlarlar");
+}
+	
+}

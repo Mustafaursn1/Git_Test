@@ -1,0 +1,12 @@
+package day28overriding;
+
+public class Animal {
+	
+	
+	public void sound() {
+		System.out.println("Ses Cikarirlar");
+	}
+public void numOfFoot() {
+	System.out.println("Ayak sayisi bellidir");
+}
+}
